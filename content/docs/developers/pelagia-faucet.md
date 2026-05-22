@@ -9,11 +9,9 @@ images: []
 menu:
   docs:
     parent: "developers"
-weight: 235
+weight: 260
 toc: true
 ---
-
-# Faucet — Reef Pelagia
 
 Reef Pelagia transactions and contract deployments are paid in REEF, the same as on the legacy network. Testnet REEF is supplied free of charge through the Pelagia web faucet.
 
